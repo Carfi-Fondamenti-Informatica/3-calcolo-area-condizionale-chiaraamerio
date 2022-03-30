@@ -11,7 +11,7 @@ int main() {
    
    switch(opzione){
       case 0:
-         s=(a*b)*0,5;
+         s=(a*b)/2;
          cout<<s<<endl;
          break;
       case 1:
